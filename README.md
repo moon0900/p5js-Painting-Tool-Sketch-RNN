@@ -1,5 +1,5 @@
 # p5js-Painting-Tool-Sketch-RNN
-[![p5js-Painting-Tool-Sketch-RNN](./markdown_img/all-features.PNG)](https://editor.p5js.org/immoon0920/sketches/sF5VOBGX3)
+[![p5js-Painting-Tool-Sketch-RNN](./markdown_img/sketch-rnn-draw.png)](https://editor.p5js.org/immoon0920/sketches/sF5VOBGX3)
 
 p5js로 작성한 그림판 프로그램입니다. 이미지를 클릭하면 실행 링크로 이동합니다.
 
@@ -33,3 +33,8 @@ p5js로 작성한 그림판 프로그램입니다. 이미지를 클릭하면 실
 * **꽃**
 * **고양이**
 * **강아지**
+
+![sketch-rnn-draw1](./markdown_img/sketch-rnn-1.png)
+
+![sketch-rnn-draw2](./markdown_img/sketch-rnn-2.png)
+
